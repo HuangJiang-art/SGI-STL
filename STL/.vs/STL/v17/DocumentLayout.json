@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSfile\\STL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|E:\\VSfile\\STL\\STL\\function_call.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|solutionrelative:STL\\function_call.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|E:\\VSfile\\STL\\STL\\operator_overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|solutionrelative:STL\\operator_overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|E:\\VSfile\\STL\\STL\\stl_member_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|solutionrelative:STL\\stl_member_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|E:\\VSfile\\STL\\STL\\bound_friend_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|solutionrelative:STL\\bound_friend_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|E:\\VSfile\\STL\\STL\\temporary_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|solutionrelative:STL\\temporary_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|E:\\VSfile\\STL\\STL\\defult_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|solutionrelative:STL\\defult_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|E:\\VSfile\\STL\\STL\\static_template_member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DADE07-E9A7-489C-9E7D-410C1BF68405}|STL\\STL.vcxproj|solutionrelative:STL\\static_template_member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function_call.cpp",
+              "DocumentMoniker": "E:\\VSfile\\STL\\STL\\function_call.cpp",
+              "RelativeDocumentMoniker": "STL\\function_call.cpp",
+              "ToolTip": "E:\\VSfile\\STL\\STL\\function_call.cpp",
+              "RelativeToolTip": "STL\\function_call.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwDYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T07:37:53.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operator_overloading.cpp",
+              "DocumentMoniker": "E:\\VSfile\\STL\\STL\\operator_overloading.cpp",
+              "RelativeDocumentMoniker": "STL\\operator_overloading.cpp",
+              "ToolTip": "E:\\VSfile\\STL\\STL\\operator_overloading.cpp",
+              "RelativeToolTip": "STL\\operator_overloading.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwD0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T06:47:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "temporary_object.cpp",
+              "DocumentMoniker": "E:\\VSfile\\STL\\STL\\temporary_object.cpp",
+              "RelativeDocumentMoniker": "STL\\temporary_object.cpp",
+              "ToolTip": "E:\\VSfile\\STL\\STL\\temporary_object.cpp",
+              "RelativeToolTip": "STL\\temporary_object.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T06:25:36.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bound_friend_templates.cpp",
+              "DocumentMoniker": "E:\\VSfile\\STL\\STL\\bound_friend_templates.cpp",
+              "RelativeDocumentMoniker": "STL\\bound_friend_templates.cpp",
+              "ToolTip": "E:\\VSfile\\STL\\STL\\bound_friend_templates.cpp",
+              "RelativeToolTip": "STL\\bound_friend_templates.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:48:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "defult_templates.cpp",
+              "DocumentMoniker": "E:\\VSfile\\STL\\STL\\defult_templates.cpp",
+              "RelativeDocumentMoniker": "STL\\defult_templates.cpp",
+              "ToolTip": "E:\\VSfile\\STL\\STL\\defult_templates.cpp",
+              "RelativeToolTip": "STL\\defult_templates.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:28:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stl_member_templates.cpp",
+              "DocumentMoniker": "E:\\VSfile\\STL\\STL\\stl_member_templates.cpp",
+              "RelativeDocumentMoniker": "STL\\stl_member_templates.cpp",
+              "ToolTip": "E:\\VSfile\\STL\\STL\\stl_member_templates.cpp",
+              "RelativeToolTip": "STL\\stl_member_templates.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:17:18.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "static_template_member.cpp",
+              "DocumentMoniker": "E:\\VSfile\\STL\\STL\\static_template_member.cpp",
+              "RelativeDocumentMoniker": "STL\\static_template_member.cpp",
+              "ToolTip": "E:\\VSfile\\STL\\STL\\static_template_member.cpp",
+              "RelativeToolTip": "STL\\static_template_member.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:08:44.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
